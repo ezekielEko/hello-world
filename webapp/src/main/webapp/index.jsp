@@ -4,10 +4,9 @@
   <meta charset="UTF-8">
   <title>DevOps Training For Java Developers</title>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-
-
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"><link rel="stylesheet" href="./style.css">
-
+<style>
+</style>
 </head>
 <body>
 <!-- partial:index.partial.html -->
@@ -42,7 +41,7 @@
 		<input type="checkbox" name="item" checked/>
 		<span class="text-checkbox">Remember me</span>
 	</label>
-			<p>forget password?</p>
+			<p>forget password you too!! aka Odjooo?</p>
 		</div>
 			
 			<br>
