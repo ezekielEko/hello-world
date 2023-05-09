@@ -141,7 +141,7 @@ button{
     </div>
     <form>
 	<h1>DevOps Training Certification</h1>
-        <h3>Login Here</h3>
+        <h3>Login Here to get started!</h3>
 
         <label for="username">Username</label>
         <input type="text" placeholder="Email or Phone" id="username">
