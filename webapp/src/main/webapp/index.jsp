@@ -143,10 +143,10 @@ button{
 	<h1>DevOps Training Certification</h1>
         <h3>Login Here to get started!</h3>
 
-        <label for="username">Username</label>
+        <label for="username">Enter Username</label>
         <input type="text" placeholder="Email or Phone" id="username">
 
-        <label for="password">Password</label>
+        <label for="password">Enter password</label>
         <input type="password" placeholder="Password" id="password">
 
         <button>Log In</button>
